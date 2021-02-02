@@ -361,40 +361,40 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Editor">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Gameroom">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/FacebookSDK/Plugins/Gameroom/Facebook.Unity.Gameroom.dll</HintPath>
     </Reference>
     <Reference Include="FacebookNamedPipeClient">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/FacebookSDK/Plugins/Gameroom/FacebookNamedPipeClient.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="Google.IOSResolver_v1.2.135.0">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.JarResolver_v1.2.135.0">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandler">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
     </Reference>
     <Reference Include="Google.VersionHandlerImpl_v1.2.135.0">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.135.0.dll</HintPath>
     </Reference>
     <Reference Include="DOTween">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
     </Reference>
     <Reference Include="DOTweenEditor">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Assets/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>D:/Program Files/2019.4.19f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
@@ -757,37 +757,37 @@
       <HintPath>D:/Program Files/2019.4.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Users/batu_/Documents/GitHubb/Development/GroundMazee/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Users/batu_/Documents/GitHubb/DevMain/GroundMazee/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
